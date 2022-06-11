@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name" translatable="false">Programming Jokes</string>
+    <string name="label_favorites">Favoritos</string>
+
+    <!-- HomeFragment -->
+    <string name="error_getting_joke_list">Infelizmente ocorreu um erro ao tentar obter a lista de piadas.</string>
+    <string name="menu_reload">Recarregar</string>
+
+    <!-- FavoritesFragment -->
+    <string name="empty_favorite_list">Lista de favoritos vazia. Seus favoritos aparecerão aqui.</string>
+    <string name="text_tools_setup">Uma interface de usuário é como uma piada.</string>
+    <string name="text_tools_punchline">Se você tiver que explicar ela, então não é tão boa.</string>
+
+</resources>

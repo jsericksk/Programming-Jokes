@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_reload"
+        android:icon="@drawable/ic_autorenew"
+        android:title="@string/menu_reload"
+        app:iconTint="@color/white"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_favorites"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/label_favorites"
+        app:iconTint="@color/white"
+        app:showAsAction="ifRoom" />
+
+</menu>
